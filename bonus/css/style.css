@@ -8,6 +8,16 @@ body{
     background-color: black;
 }
 
+[class*="col-"]:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+}
+
+[class*="col-"]:active {
+    transition: 0.1s;
+    transform: scale(0.9);
+}
+
 /* Variabili */
 
 :root {
