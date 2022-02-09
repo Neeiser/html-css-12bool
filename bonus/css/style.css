@@ -17,7 +17,7 @@ body{
     --green4: #0db50d;
     --green5: #50c050;
     --green6: #8fe38f;
-    --green7: #e6ffdd;
+    --green7: #d4ffc4;
     --black: #000000;
 }
 
@@ -360,4 +360,46 @@ body{
 
 .row-8 .col-1:nth-child(10){
     background-color: var(--green3);
+}
+
+/* RIGA 9 */
+
+.row-9 .col-1:nth-child(1){
+    background-color: var(--green7);
+}
+
+.row-9 .col-1:nth-child(2){
+    background-color: var(--green5);
+}
+
+.row-9 .col-1:nth-child(3){
+    background-color: var(--green7);
+}
+
+.row-9 .col-1:nth-child(4){
+    background-color: var(--green6);
+}
+
+.row-9 .col-1:nth-child(5){
+    background-color: var(--green4);
+}
+
+.row-9 .col-1:nth-child(6){
+    background-color: var(--green2);
+}
+
+.row-9 .col-1:nth-child(7){
+    background-color: var(--green5);
+}
+
+.row-9 .col-1:nth-child(8){
+    background-color: var(--green4);
+}
+
+.row-9 .col-1:nth-child(9){
+    background-color: var(--green6);
+}
+
+.row-9 .col-1:nth-child(10){
+    background-color: var(--green4);
 }
