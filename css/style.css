@@ -1,9 +1,5 @@
-.row {
-    border: 1px solid blue;
-}
-
 .row div{
-    border: 1px solid red;
+    border: 1px solid white;
     background-color: #006cfa;
     color: white;
 }

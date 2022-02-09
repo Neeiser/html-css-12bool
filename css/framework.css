@@ -21,7 +21,7 @@
 
 [class*="col-"] {
     flex: 0 0 auto; /* Per resettare il comportamento di base del flex */
-    display: flex;
+    display: flex;  /* Per centrare il contenuto delle colonne */
     align-items: center;
     justify-content: center;
 }
