@@ -9,10 +9,14 @@
     margin: 0 auto;
 }
 
+.container-top{
+    margin-bottom: 20px;
+}
+
 .row {
     display: flex;
     flex-flow: row wrap;
-    height: 60px;
+    height: 100%;
 }
 
 
@@ -92,14 +96,6 @@
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
-    padding: 10px;
-    height: 80px;
-}
-
-.row-nested > div{         /* Uso > così escludo la .row-nested */
-    border: 1px solid #006cfa !important;
-    background-color: #00e165 !important;
-    color: white;
 }
 
 .col-2-nest{

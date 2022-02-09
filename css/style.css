@@ -1,5 +1,17 @@
-.row > div{         /* Uso > così escludo la .row-nested */
+[class*="col-"]{         /* Uso > così escludo la .row-nested */
     border: 1px solid white;
     background-color: #006cfa;
+    color: white;
+    min-height: 60px;
+}
+
+.row-nested{
+    padding: 10px;
+    height: 80px;
+}
+
+.row-nested > div{
+    border: 1px solid #006cfa !important;
+    background-color: #00e165 !important;
     color: white;
 }
