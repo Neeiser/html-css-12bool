@@ -277,3 +277,45 @@ body{
 .row-6 .col-1:nth-child(10){
     background-color: var(--green6);
 }
+
+/* RIGA 7 */
+
+.row-7 .col-1:nth-child(1){
+    background-color: var(--green3);
+}
+
+.row-7 .col-1:nth-child(2){
+    background-color: var(--green7);
+}
+
+.row-7 .col-1:nth-child(3){
+    background-color: var(--green3);
+}
+
+.row-7 .col-1:nth-child(4){
+    background-color: var(--black);
+}
+
+.row-7 .col-1:nth-child(5){
+    background-color: var(--black);
+}
+
+.row-7 .col-1:nth-child(6){
+    background-color: var(--black);
+}
+
+.row-7 .col-1:nth-child(7){
+    background-color: var(--black);
+}
+
+.row-7 .col-1:nth-child(8){
+    background-color: var(--green5);
+}
+
+.row-7 .col-1:nth-child(9){
+    background-color: var(--green2);
+}
+
+.row-7 .col-1:nth-child(10){
+    background-color: var(--green7);
+}
