@@ -1,4 +1,4 @@
-.row div{
+.row > div{         /* Uso > così escludo la .row-nested */
     border: 1px solid white;
     background-color: #006cfa;
     color: white;
