@@ -18,7 +18,7 @@ body{
     --green5: #50c050;
     --green6: #8fe38f;
     --green7: #e6ffdd;
-    --black: #010301;
+    --black: #000000;
 }
 
 
@@ -107,3 +107,87 @@ body{
 }
 
 /* RIGA 3 */
+
+.row-3 .col-1:nth-child(1){
+    background-color: var(--green6);
+}
+
+.row-3 .col-1:nth-child(2){
+    background-color: var(--green4);
+}
+
+.row-3 .col-1:nth-child(3){
+    background-color: var(--black);
+}
+
+.row-3 .col-1:nth-child(4){
+    background-color: var(--black);
+}
+
+.row-3 .col-1:nth-child(5){
+    background-color: var(--green6);
+}
+
+.row-3 .col-1:nth-child(6){
+    background-color: var(--green3);
+}
+
+.row-3 .col-1:nth-child(7){
+    background-color: var(--black);
+}
+
+.row-3 .col-1:nth-child(8){
+    background-color: var(--black);
+}
+
+.row-3 .col-1:nth-child(9){
+    background-color: var(--green7);
+}
+
+.row-3 .col-1:nth-child(10){
+    background-color: var(--green5);
+}
+
+/* RIGA 4 */
+
+.row-4 .col-1:nth-child(1){
+    background-color: var(--green5);
+}
+
+.row-4 .col-1:nth-child(2){
+    background-color: var(--green4);
+}
+
+.row-4 .col-1:nth-child(3){
+    background-color: var(--black);
+}
+
+.row-4 .col-1:nth-child(4){
+    background-color: var(--black);
+}
+
+.row-4 .col-1:nth-child(5){
+    background-color: var(--green5);
+}
+
+.row-4 .col-1:nth-child(6){
+    background-color: var(--green4);
+}
+
+.row-4 .col-1:nth-child(7){
+    background-color: var(--black);
+}
+
+.row-4 .col-1:nth-child(8){
+    background-color: var(--black);
+}
+
+.row-4 .col-1:nth-child(9){
+    background-color: var(--green5);
+}
+
+.row-4 .col-1:nth-child(10){
+    background-color: var(--green5);
+}
+
+/* RIGA 5 */
